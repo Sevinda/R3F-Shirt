@@ -47,7 +47,6 @@ const Shirt = () => {
           />
         )}
       </mesh>
-      {/* <OrbitControls /> */}
     </group>
   );
 };
